@@ -10,9 +10,12 @@ Steps-
 i.e.    java -jar GaanaExtractor-2.5.jar "E:\Songs\gaana" true
 
 8. Now, all the files are converted into this location - "E:\Songs\gaana\converted"
-
-NOTE: all the files downloaded through Gaana app is in '.m4a' format.
+	> NOTE: all the files downloaded through Gaana app is in '.m4a' format.
+	
+9. But, the transferred files are in different folders with respective movie names.
+	- So, just "Add folder to library" in iTunes.
+	- then select the songs and "drag and drop" into required destination folder.
 
 
 ## Resources
-* https://github.com/PathriK/GaanaExtractor
+* https://github.com/PathriK/GaanaExtractor [DEPRECATED]
