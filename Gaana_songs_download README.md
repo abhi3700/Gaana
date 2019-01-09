@@ -1,5 +1,5 @@
 Steps-
-1. Download the songs from Mobile app.
+1. Download the songs from Mobile app. Use older versions (available in the folder).
 2. Using "ES File Explorer" app, go to "Android\data\com.gaana\files". You find nothing.
 3. Then on left panel inside the App, enable "see hidden files".
 4. Then, you will find ".gaana" folder which contains many downloaded files.
