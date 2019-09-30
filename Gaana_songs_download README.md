@@ -16,6 +16,11 @@ i.e.    `java -jar GaanaExtractor-2.5.jar "E:\Songs\gaana" true`
 	- So, just "Add folder to library" in iTunes.
 	- then select the songs and "drag and drop" into required destination folder.
 
+## Download process
+* Open Gaana in desktop and search songs one by one.
+* download the songs and cut paste the songs in DCIM.gaana folder.
+* TROUBLESHOOTING:
+	- If the song is not getting downloaded, then just re-install the .apk and try download again. The issue will be resolved.
 
 ## Resources
 * https://github.com/PathriK/GaanaExtractor [DEPRECATED]
