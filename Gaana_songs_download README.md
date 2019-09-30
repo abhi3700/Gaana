@@ -7,7 +7,7 @@ Steps-
 6. Now, save the jar file "GaanaExtractor-2.5.jar" in "E:\Songs" and songs into "E:\Songs\gaana".
 7. Now, open cmd in the location "E:\Songs" and use the following command:
 	java -jar GaanaExtractor-<version>.jar "E:\Songs\gaana\" true
-i.e.    java -jar GaanaExtractor-2.5.jar "E:\Songs\gaana" true
+i.e.    `java -jar GaanaExtractor-2.5.jar "E:\Songs\gaana" true`
 
 8. Now, all the files are converted into this location - "E:\Songs\gaana\converted"
 	> NOTE: all the files downloaded through Gaana app is in '.m4a' format.
